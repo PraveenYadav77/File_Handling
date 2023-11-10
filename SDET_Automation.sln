@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDET_Automation", "SDET_Automation.csproj", "{094FFBE5-7875-4F07-9801-AA73092BEB8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{094FFBE5-7875-4F07-9801-AA73092BEB8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{094FFBE5-7875-4F07-9801-AA73092BEB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{094FFBE5-7875-4F07-9801-AA73092BEB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{094FFBE5-7875-4F07-9801-AA73092BEB8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22C67858-89C5-43F8-A5B0-9FF0AE5063A1}
+	EndGlobalSection
+EndGlobal
